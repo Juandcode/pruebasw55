@@ -11,8 +11,8 @@ class IAController
         $ia = new IA();
         //$imageUrl = 'http://diegoswparcial.000webhostapp.com/parcial1/public/'.$_POST['nombre'];
         //echo $imageUrl;
-        $imagenJSON = $ia->getImage($imageUrl);
-        //echo $imageUrl;
+        //$imagenJSON = $ia->getImage($imageUrl);
+       
             echo $imageUrl;
         /*$resultados = json_encode($ia->analizarImageQr($imagenJSON, $imageUrl));
         $loop = json_decode($resultados, true);
