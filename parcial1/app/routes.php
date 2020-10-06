@@ -34,7 +34,7 @@ function call($controller, $action)
             // require_once ('models/login.php');
             $controller = new loginController();
             break;
-        case 'ia':
+        case 'IA':
             $controller = new iaController();
             break;
         case 'leerqr':
@@ -60,7 +60,7 @@ $controllers = array(
     'leerqr' => ['index'],
     'jurado' => ['index', 'guardar'],
     'partido' => ['index','getPartidos1','getidPartido'],
-    'ia' => ['analizarImagen', 'guardar1','prueba'],
+    'IA' => ['analizarImagen', 'guardar1','prueba'],
     'mesa'=>['getMesas','getidMesa','votosMesaExiste','index','datosVotosMesa','resultados']
 
 );
