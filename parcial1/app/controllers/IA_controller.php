@@ -8,7 +8,7 @@ class IAController
     {
         //  if (isset($_POST['nombre'])) {
         $imageUrl = 'https://i.ibb.co/nMtWx6n/prue.jpg';
-        $ia = new IA();
+        //$ia = new IA();
         //$imageUrl = 'http://diegoswparcial.000webhostapp.com/parcial1/public/'.$_POST['nombre'];
         //echo $imageUrl;
         //$imagenJSON = $ia->getImage($imageUrl);
