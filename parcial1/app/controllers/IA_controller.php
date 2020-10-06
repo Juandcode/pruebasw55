@@ -13,14 +13,14 @@ class IAController
         //echo $imageUrl;
         $imagenJSON = $ia->getImage($imageUrl);
         //echo $imageUrl;
-
-        $resultados = json_encode($ia->analizarImageQr($imagenJSON, $imageUrl));
+            echo $imageUrl;
+        /*$resultados = json_encode($ia->analizarImageQr($imagenJSON, $imageUrl));
         $loop = json_decode($resultados, true);
         foreach ($loop['resultados'] as $key => $value) {
             //echo $key;
         }
-        //$this->guardarVotos($resultados);
-        echo $resultados;
+        $this->guardarVotos($resultados);
+        echo $resultados;*/
         /*  } else {
             echo json_encode("error");
         }*/
