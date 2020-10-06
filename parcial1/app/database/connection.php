@@ -5,7 +5,7 @@
 * Date: 15/4/2017
 * Time: 2:17 AM
 */
-define('DB_HOST', 'localhost'); // 'your-database-host';
+define('DB_HOST', 'db4free.net'); // 'your-database-host';
 define('DB_NAME', 'swparcialdiego');   // 'your-database-name';
 define('DB_USER', 'diego22x');      // 'your-database-user';
 define('DB_PASS', '3528762d');      // 'your-database-password 3528762d';
