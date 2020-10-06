@@ -3,6 +3,9 @@
 
 class iaController
 {
+    public function prueba(){
+        echo "prueba";
+    }
 
     public function analizarImagen()
     {

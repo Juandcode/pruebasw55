@@ -60,7 +60,7 @@ $controllers = array(
     'leerqr' => ['index'],
     'jurado' => ['index', 'guardar'],
     'partido' => ['index','getPartidos1','getidPartido'],
-    'ia' => ['analizarImagen', 'guardar1'],
+    'ia' => ['analizarImagen', 'guardar1','prueba'],
     'mesa'=>['getMesas','getidMesa','votosMesaExiste','index','datosVotosMesa','resultados']
 
 );
