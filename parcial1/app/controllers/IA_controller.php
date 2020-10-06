@@ -1,7 +1,7 @@
 <?php
 
 
-class IAController
+class iaController
 {
 
     public function analizarImagen()

@@ -35,7 +35,7 @@ function call($controller, $action)
             $controller = new loginController();
             break;
         case 'ia':
-            $controller = new IAController();
+            $controller = new iaController();
             break;
         case 'leerqr':
             $controller = new leerqrController();
