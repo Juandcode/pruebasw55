@@ -19,7 +19,7 @@ class IAController
         foreach ($loop['resultados'] as $key => $value) {
             //echo $key;
         }
-        $this->guardarVotos($resultados);
+        //$this->guardarVotos($resultados);
         echo $resultados;
         /*  } else {
             echo json_encode("error");
