@@ -6,9 +6,9 @@
 * Time: 2:17 AM
 */
 define('DB_HOST', 'localhost'); // 'your-database-host';
-define('DB_NAME', 'id15029138_swparcial');   // 'your-database-name';
-define('DB_USER', 'id15029138_diego21x');      // 'your-database-user';
-define('DB_PASS', 'u-f$9g\-7dqzmKU+');      // 'your-database-password 3528762d';
+define('DB_NAME', 'swparcialdiego');   // 'your-database-name';
+define('DB_USER', 'diego22x');      // 'your-database-user';
+define('DB_PASS', '3528762d');      // 'your-database-password 3528762d';
 
 
 /*define('DB_HOST', 'localhost'); // 'your-database-host';
